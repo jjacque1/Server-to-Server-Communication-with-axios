@@ -1,4 +1,4 @@
-# Fun Fact Server down
+# Usless Facts API Crashed!
 
 {
 "code": "server_error",
